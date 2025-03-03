@@ -18,8 +18,7 @@ export default {
     disabled:cursor-not-allowed
     group-data-[disabled]:disabled:opacity-100
 
-    aria-[pressed=true]:bg-$accentColor-$accentColorStrength
-    aria-[pressed=true]:text-white
+    aria-[pressed=true]:bg-$colorTemperature-200
     dark:aria-[pressed=true]:bg-$accentColor-$accentColorStrengthDark
     dark:aria-[pressed=true]:text-black
     
