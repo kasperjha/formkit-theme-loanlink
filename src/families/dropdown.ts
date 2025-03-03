@@ -10,7 +10,7 @@ export default {
     flex
     items-center
     border
-    border-$colorTemperature-300
+    border-$borderColor-$borderColorStrength
     focus-within:ring-2
     $radius
     ${

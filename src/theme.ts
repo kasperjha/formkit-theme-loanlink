@@ -180,6 +180,8 @@ export default createTheme({
     accentColor: "neutral",
     accentColorStrength: "900",
     accentColorStrengthDark: "100",
+    borderColor: 'gray',
+    borderColorStrength: '300',
     colorTemperature: "gray",
     colorTemperatureStrength: "900",
     colorTemperatureStrengthDark: "100",

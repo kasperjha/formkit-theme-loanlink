@@ -52,7 +52,7 @@ export default {
     $radius 
     border 
     
-    border-$colorTemperature-300
+    border-$borderColor-$borderColorStrength
     ${
       "" /** === ⚠️ CAUTION: Alignment of 'inner' items === 
     For text family inputs, the 'inner' section wraps the actual input along with 
