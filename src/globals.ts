@@ -27,6 +27,7 @@ export default {
     block 
     text-$colorTemperature-$colorTemperatureStrength 
     text-$scale(-1,*)
+    font-semibold
     mb-$spacing(-2,*)
 
     dark:text-$colorTemperature-$colorTemperatureStrengthDark
