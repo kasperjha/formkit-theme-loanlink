@@ -177,8 +177,8 @@ export default createTheme({
      *
      * To do so, simply assign a string value to the variable name.
      */
-    accentColor: "neutral",
-    accentColorStrength: "900",
+    accentColor: "violet",
+    accentColorStrength: "500",
     accentColorStrengthDark: "100",
     borderColor: 'gray',
     borderColorStrength: '300',
