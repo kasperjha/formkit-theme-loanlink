@@ -65,10 +65,10 @@ import { multiStep, step } from "./inputs/addon/multi-step";
 
 export default createTheme({
   meta: {
-    name: "LoanLink",
-    description: "YOUR THEME DESCRIPTION HERE",
-    authorName: "Kasper JH. Alfarnes",
-    authorWebsite: "https://formkit.com",
+    name: "loanlink",
+    description: "LoanLink's formkit theme.",
+    authorName: "LoanLink",
+    authorWebsite: "https://loanlink.nl",
     formKitVersion: "^1.0.0",
     /**
      * === Supported Inputs ===
