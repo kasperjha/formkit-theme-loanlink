@@ -22,7 +22,7 @@ export default {
     items-center
     mb-$spacing(-1)
     border
-    border-$colorTemperature-$colorTemperatureStrength
+    border-$colorTemperature-300
     $radius(0,rounded-none,rounded-2xl) ${"" /** Don't go full rounded */}
     focus-within:ring-2
 
