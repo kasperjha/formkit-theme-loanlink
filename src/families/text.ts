@@ -51,8 +51,8 @@ export default {
     px-$spacing(2,*) 
     $radius 
     border 
-    border-$colorTemperature-$colorTemperatureStrength
     
+    border-$colorTemperature-300
     ${
       "" /** === ⚠️ CAUTION: Alignment of 'inner' items === 
     For text family inputs, the 'inner' section wraps the actual input along with 

@@ -35,7 +35,7 @@ export default {
     w-[1em]
     aspect-[1/1]
     border
-    border-$colorTemperature-$colorTemperatureStrength
+    border-$colorTemperature-300
     mr-$spacing(-1,1.5,3)
     text-transparent
     peer-checked:text-$accentColor-$accentColorStrength

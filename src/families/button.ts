@@ -23,7 +23,7 @@ export default {
     outline-none
     text-$colorTemperature-$colorTemperatureStrength
     border
-    border-$colorTemperature-$colorTemperatureStrength
+    border-$colorTemperature-300
     group-data-[disabled]:!cursor-not-allowed
     group-data-[prefix-icon]:pl-$spacing(5,*)
     group-data-[suffix-icon]:pr-$spacing(5,*)
