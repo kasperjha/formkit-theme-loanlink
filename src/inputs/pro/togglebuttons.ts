@@ -10,7 +10,8 @@ export default {
     group/option
   `,
   input: `
-    !px-$spacing(4,*)
+    !py-$spacing(-2)
+    !px-$spacing(2,*)
     group-data-[vertical=true]/options:w-full
     justify-center
 
