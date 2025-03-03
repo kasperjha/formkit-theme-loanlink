@@ -190,7 +190,7 @@ export default createTheme({
      */
     radius: {
       editor: "radius",
-      value: "rounded-none",
+      value: "rounded",
       /**
        * (Optional) you can provide your own limited
        * subset of a default scale to use for the editor.
@@ -215,13 +215,13 @@ export default createTheme({
        * can still access values beyond the min and max.
        */
       editor: "spacing",
-      value: "2",
+      value: "1",
       min: "1",
       max: "3",
     },
     scale: {
       editor: "fontSize",
-      value: "base",
+      value: "sm",
       /**
        * This variable is including a custom value in its scale at the low end.
        * This is helpful for when you need to exceed the range of
